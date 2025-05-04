@@ -1,65 +1,65 @@
-# 👋 Salut, moi c'est APONG MARLEY
+# 👋 Hi there, I'm APONG MARLEY
 
-🎯 Développeur web fullstack JavaScript / TypeScript passionné  
-💼 4 ans d'expérience | 📍 Basé au Cameroun | 🧑‍💻 22 ans (2025)
+🎯 Passionate Fullstack JavaScript / TypeScript Developer  
+💼 4 years of experience | 📍 Based in Cameroon | 🧑‍💻 22 years old (2025)
 
 ---
 
-### 🚀 Stack principale
+### 🚀 Tech Stack
 
 **Frontend**  
 - React.js / React TS  
 - Next.js  
 - Tailwind CSS, SCSS, Bootstrap, CSS  
-- UI Libraries : [shadcn/ui](https://ui.shadcn.com/), [Lucide Icons](https://lucide.dev/), [Remix Icon](https://remixicon.com/)
+- UI Libraries: [shadcn/ui](https://ui.shadcn.com/), [Lucide Icons](https://lucide.dev/), [Remix Icon](https://remixicon.com/)
 
 **Backend**  
 - Express.js (JS/TS)  
 - NestJS  
 
-**Bonnes pratiques & outils**  
+**Best Practices & Tools**  
 - Git / GitHub  
-- API REST  
-- Responsive Design / Accessibilité  
-- Clean Code, architecture modulaire
+- REST APIs  
+- Responsive Design / Accessibility  
+- Clean Code, modular architecture
 
 ---
 
-### 📂 Projets
+### 📂 Projects
 
-> Certains projets restent privés pour des raisons de confidentialité professionnelle avec les entreprises.  
-> N'hésitez pas à me contacter pour en savoir plus ou demander un aperçu.
+> Some of my projects remain private due to confidentiality agreements with companies.  
+> Feel free to contact me for more info or to request a preview.
 
-🎯 **Projet en cours**  
-Je travaille actuellement sur une application d'agrégation de paiement nommée **GB_PAY**, en tant que développeur frontend.  
-Projet réalisé en collaboration avec deux développeurs backend pour le compte de :  
+🎯 **Current Project**  
+I'm currently working as a frontend developer on a payment aggregation application called **GB_PAY**.  
+Built in collaboration with two backend developers, under the organization:  
 🔗 [BETTER-PLANNING-DIGITAL-PROJECT](https://github.com/BETTER-PLANNING-DIGITAL-PROJECT)
 
 ---
 
-### 🎓 Formation
+### 🎓 Education
 
-- Autodidacte passionné & projets réels  
-- BTS & Licence en Génie Logiciel
-
----
-
-### 🌍 Langues
-
-- Français 🇫🇷 : parlé et écrit (natif)  
-- Anglais 🇬🇧 : parlé et écrit (professionnel / technique)
+- Self-taught and real-world project experience  
+- BTS & Bachelor's degree in Software Engineering
 
 ---
 
-### 📬 Me contacter
+### 🌍 Languages
 
-- 📧 **Email** : marlexapong90@gmail.com  
-- 💼 **LinkedIn** : [Marley Apong](https://cm.linkedin.com/in/marley-apong-228550257?trk=people_directory)  
-- ▶️ **YouTube** : [@amatutoriel](https://www.youtube.com/@amatutoriel)
+- French 🇫🇷: fluent (spoken and written – native)  
+- English 🇬🇧: fluent (spoken and written – technical & professional)
 
 ---
 
-### 🧱 Stack & Technologies (Ce que j'ai déjà touché)
+### 📬 Contact
+
+- 📧 **Email**: marlexapong90@gmail.com  
+- 💼 **LinkedIn**: [Marley Apong](https://cm.linkedin.com/in/marley-apong-228550257?trk=people_directory)  
+- ▶️ **YouTube**: [@amatutoriel](https://www.youtube.com/@amatutoriel)
+
+---
+
+### 🧱 Stack & Tools I’ve Worked With
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
@@ -86,17 +86,16 @@ Projet réalisé en collaboration avec deux développeurs backend pour le compte
 ![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=for-the-badge)
 ![Plesk](https://img.shields.io/badge/-Plesk-0052CC?style=for-the-badge)
 
-
 ---
 
 ### ⚡ Fun Fact
 
-> Le code, c’est mon quotidien.  
-> Le pixel-perfect, mon obsession.  
-> Le TypeScript, ma langue préférée 😎
+> Coding is my daily life.  
+> Pixel-perfect is my obsession.  
+> TypeScript is my favorite language 😎
 
 ---
 
-### 💬 Citation favorite
+### 💬 Favorite Quote
 
 > *“Do it once, do it right, do it with TypeScript.”*
