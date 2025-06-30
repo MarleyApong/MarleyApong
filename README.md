@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm APONG MARLEY
 
 🎯 Passionate Fullstack JavaScript / TypeScript Developer  
-💼 4 years of experience | 📍 Based in Cameroon | 🧑‍💻 22 years old (2025)
+💼 4 years of experience
 
 ---
 
